@@ -1,0 +1,4 @@
+# Portfolio-Building
+I am Pradnya, a Computer Science and Engineering student interested in programming, software development, and technology. This repository is created as part of my Portfolio Building for Engineering Students course to document my learning, projects, skills, and progress throughout the course. I will use this repository to practice Git and GitHub fundamentals and build a professional portfolio.
+
+
